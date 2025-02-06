@@ -16,7 +16,7 @@ Acestea sunt alte proiecte în dezvoltare sau dezvoltate anterior, la care am co
 - **Descriere:**  
   Aplicație pentru gestionarea depozitului, facturare și generarea de acte necesare.
 - **Acces:**  
-  [aici](https://onaka-intern.ro/login)  
+  [URL](https://onaka-intern.ro/login)  
   *Notă: Link-ul este protejat prin autentificare.*
 
 ---
@@ -35,7 +35,7 @@ Acestea sunt alte proiecte în dezvoltare sau dezvoltate anterior, la care am co
 - **Descriere:**  
   Aplicație CRM/ERP pentru gestionarea relațiilor cu clienții și a resurselor interne.
 - **Acces:**  
-  [aici](https://netreach.ro/erp/login)  
+  [URL](https://netreach.ro/erp/login)  
   *Notă: Link-ul este protejat prin autentificare.*
 
 ---
