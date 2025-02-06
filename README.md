@@ -5,7 +5,7 @@ Acestea sunt alte proiecte în dezvoltare sau dezvoltate anterior, la care am co
 ## Magazin Online
 
 - **Descriere:**  
-  Magazin online în curs de dezvoltare.  
+  Magazin online în curs de dezvoltare.
 - **Detalii:**  
   URL-ul oficial va fi adăugat în curând.
 
@@ -25,12 +25,19 @@ Acestea sunt alte proiecte în dezvoltare sau dezvoltate anterior, la care am co
 
 - **Descriere:**  
   Program care se ocupă de evidența, facturarea și generarea documentelor necesare pentru transporturi.
-- **Detalii:**  
-  URL-ul va fi adăugat în curând.
+- **Acces:**
+  [URL](https://netreach-logistics.ro/login)
 
 ---
 
-Toate aceste proiecte au fost dezvoltate în echipă.e.
+## Soft CRM/ERP
 
+- **Descriere:**  
+  Aplicație CRM/ERP pentru gestionarea relațiilor cu clienții și a resurselor interne.
+- **Acces:**  
+  [aici](https://netreach.ro/erp/login)  
+  *Notă: Link-ul este protejat prin autentificare.*
 
+---
 
+Toate aceste proiecte au fost dezvoltate în echipă.
