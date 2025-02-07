@@ -14,17 +14,17 @@ Acestea sunt alte proiecte în dezvoltare sau dezvoltate anterior, la care am co
 ## Gestiune Depozit + Facturare + Generare de Acte
 
 - **Descriere:**  
-  Aplicație pentru gestionarea depozitului, facturare și generarea de acte necesare.
+  Aplicație pentru gestionarea depozitului, facturare (FGO API) și generarea de acte necesare.
 - **Acces:**  
   [URL](https://onaka-intern.ro/login)  
   *Notă: Link-ul este protejat prin autentificare.*
 
 ---
 
-## Gestiune Transporturi pentru Marial-Freight
+## Gestiune Transporturi
 
 - **Descriere:**  
-  Program care se ocupă de evidența, facturarea și generarea documentelor necesare pentru transporturi.
+  Program care se ocupă de evidența, facturarea (SmartBill API) și generarea documentelor necesare pentru transporturi.
 - **Acces:**
   [URL](https://netreach-logistics.ro/login)
 
