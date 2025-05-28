@@ -5,9 +5,9 @@ Acestea sunt alte proiecte în dezvoltare sau dezvoltate anterior, la care am co
 ## Magazin Online
 
 - **Descriere:**  
-  Magazin online în curs de dezvoltare.
+  Magazin online.
 - **Detalii:**  
-  URL-ul oficial va fi adăugat în curând.
+  [URL](https://ropomarkt.de/).
 
 ---
 
